@@ -1,5 +1,5 @@
 # CNN
-This repository is for my final project for CSC 582B 
+This repository is for my final project for CSC 581B 
 
 All of the code was done using google collab and cuda
 
